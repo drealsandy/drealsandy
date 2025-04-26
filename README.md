@@ -1,5 +1,6 @@
-## Skills and Technology 👋
+## My areas of Expertise 👋
 
+- 🔭 Problem solving skills, great at evaluating potential solutions. Effective adaptability skills, enduring challanges and trive and abiltity to thrive. I currently have some awarness on HTML, CSS & JavaScript.
 <!--
 **drealsandy/drealsandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
