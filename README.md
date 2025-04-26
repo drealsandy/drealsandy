@@ -1,11 +1,12 @@
-## Hi there 👋
+## Skills and Technology 👋
 
 <!--
 **drealsandy/drealsandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Problem solving, great at evaluating potential solutions. Effective adaptability skill, enduring challanges and trive and abiltity to thrive.
+- 🔭 I currently have some awarness on HTML, CSS & JavaScript.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
